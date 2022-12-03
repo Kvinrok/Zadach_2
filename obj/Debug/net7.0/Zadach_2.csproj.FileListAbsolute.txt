@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\bin\Debug\net7.0\Zadach_2.exe
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\bin\Debug\net7.0\Zadach_2.deps.json
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\bin\Debug\net7.0\Zadach_2.runtimeconfig.json
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\bin\Debug\net7.0\Zadach_2.dll
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\bin\Debug\net7.0\Zadach_2.pdb
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.AssemblyInfo.cs
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.dll
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\refint\Zadach_2.dll
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.pdb
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\Zadach_2.genruntimeconfig.cache
+C:\Users\Александр\Documents\C#_DZ\Zadach_2\obj\Debug\net7.0\ref\Zadach_2.dll
